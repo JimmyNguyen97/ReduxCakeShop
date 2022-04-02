@@ -11,6 +11,7 @@ function buyCake() {
 }
 
 // (previousState, action) => newState
+// Git Test
 
 const initialState = {
     numOfCakes: 10
